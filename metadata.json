@@ -1,0 +1,7 @@
+{
+  "name": "The Kutting Room AI Receptionist",
+  "description": "An AI-powered voice receptionist for The Kutting Room barbershop. It can answer questions about bookings and guide users to the booking website.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
